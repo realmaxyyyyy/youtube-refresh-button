@@ -12,23 +12,15 @@ A userscript that adds a floating refresh button specifically to YouTube's home 
 
 ## Installation
 
-1. First install a userscript manager(Tamper Monkey):
-
-2. Then install the script:
-   - Click [here](raw link to your .user.js file) to install
-   - Click "Install" when prompted by Tampermonkey
+1. First install a userscript manager (TamperMonkey)
+2. Then install the script
 
 ## Usage
 
-1. Go to YouTube's home page (www.youtube.com)
+1. Go to YouTube's home page
 2. Look for the white circular button in the bottom-right corner
 3. Hover to see the red animation effect
 4. Click to refresh the page
-
-
-## Screenshots
-
-[Add screenshots here showing:
 
 ## Contributing
 
