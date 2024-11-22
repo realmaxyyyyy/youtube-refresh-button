@@ -29,3 +29,6 @@ Feel free to open issues or submit pull requests if you have suggestions for imp
 ## License
 
 MIT License
+
+## Special
+This program is only possible with the help of ChatGPT o1-preview and Claude 3.5 Sonnet
